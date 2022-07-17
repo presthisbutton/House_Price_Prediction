@@ -23,7 +23,8 @@ The following metrics have been used to evaluate the prediction results
 - Mean Absolute Error
 - $R^2$
 
-A webapp is built using Streamlit such that users can input their own parameters and get a price prediction for the house.
+A webapp is built using Streamlit such that users can input their own parameter values and get a price prediction for the house.<br>
+https://presthisbutton-house-price-predictio-knn-model-streamlit-ze9try.streamlitapp.com/
 
 ## Tools
 - Python
