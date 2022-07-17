@@ -24,7 +24,7 @@ The following metrics have been used to evaluate the prediction results
 - $R^2$
 
 A webapp is built using Streamlit such that users can input their own parameter values and get a price prediction for the house.<br>
-https://presthisbutton-house-price-predictio-knn-model-streamlit-ze9try.streamlitapp.com/
+<a href="https://presthisbutton-house-price-predictio-knn-model-streamlit-ze9try.streamlitapp.com/" target="_blank">House Price Prediction App</a>
 
 ## Tools
 - Python
